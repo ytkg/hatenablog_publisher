@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.3.1](https://github.com/ytkg/hatenablog_publisher/compare/v0.3.0...v0.3.1) - 2025-02-20
+
 ## [v0.4.1](https://github.com/swfz/hatenablog_publisher/compare/v0.4.0...v0.4.1) - 2023-01-22
 - chore(deps): update ruby/setup-ruby action to v1.134.0 by @renovate in https://github.com/swfz/hatenablog_publisher/pull/107
 - to v0.4.1 by @swfz in https://github.com/swfz/hatenablog_publisher/pull/112
